@@ -1,0 +1,8 @@
+{
+  "name": "All Clean Solution",
+  "description": "Serviços profissionais de limpeza residencial, comercial e pós-obra em Lisboa e arredores. Tudo limpo, tudo pronto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
